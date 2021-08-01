@@ -1,8 +1,8 @@
 # My custom DWM build
 
-## Patches added  
+**INFO** ***This build default installation location is "~/.local". Change PREFIX to "/usr/local" in config.mk if systemwide installation needed.***  
 
-***This build default installation location is "~/.local". Change PREFIX to "/usr/local" in config.mk if systemwide installation needed.*** 
+## Patches added  
 
 **ActualFullscreen** - Toggle fullscreen for a window  
 **AlwaysCenter** - All floating windows are centered  
