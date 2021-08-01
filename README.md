@@ -2,8 +2,7 @@
 
 ## Patches added  
 
-*** This build default installation location is "~/.local/bin". Change PREFIX to "/usr/local" in config.mk if systemwide installation needed.***  
-
+***This build default installation location is "~/.local". Change PREFIX to "/usr/local" in config.mk if systemwide installation needed.*** 
 
 **ActualFullscreen** - Toggle fullscreen for a window  
 **AlwaysCenter** - All floating windows are centered  
