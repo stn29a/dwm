@@ -1,6 +1,6 @@
 # My custom DWM build
 
-##Patches added:  
+## Patches added:  
 
 ActualFullscreen  
 AlwaysCenter  
