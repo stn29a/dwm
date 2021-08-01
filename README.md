@@ -1,6 +1,7 @@
 # My custom DWM build
 
-**!INFO!** ***This build default installation location is "~/.local". Change PREFIX to "/usr/local" in config.mk if systemwide installation needed.  Fonts Requirements: JetBrains Mono Nerd Font, JoyPixels ***  
+**!INFO!** ***This build default installation location is "~/.local". Change PREFIX to "/usr/local" in config.mk if systemwide installation needed.***  
+***Fonts Requirements: JetBrains Mono Nerd Font, JoyPixels ***  
 
 ## Patches added  
 
